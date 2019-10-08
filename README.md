@@ -1,3 +1,3 @@
 # Spotter
-SEDS-VIT Astra'19 hackathon 2019
+SEDS VIT HackerEarth ASTRA’19 
 
