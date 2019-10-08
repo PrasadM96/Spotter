@@ -1,0 +1,8 @@
+SEDS VIT HackerEarth ASTRA’19 
+
+ Description : A Mobile App for Improving Quality of Urban Life by Tourism and  
+               Fishing using Earth Observation Satellite Data 
+
+Technology Used: Android Studio(Language-Java)
+                 GPS
+                 ArcGIS Software 
